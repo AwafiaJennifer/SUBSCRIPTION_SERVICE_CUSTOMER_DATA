@@ -1,6 +1,6 @@
 ## SUBSCRIPTION SERVICE COMPANY'S CUSTOMER DATA ANALYSIS
 
-# Customer Data
+# Introduction
 
 This section provides an analysis of customer data from a subscription service, aimed at understanding customer behavior, demographics, and purchasing patterns. Using SQL, Excel, and Power BI, the project segments customers based on key metrics and identifies high-value subscriber.
 
