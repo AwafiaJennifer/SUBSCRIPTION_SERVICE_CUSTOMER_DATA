@@ -149,7 +149,7 @@ This section provides an analysis of customer data from a subscription service, 
    FROM 
        customer_data;
 
-   ### Power BI
+
 
 Power BI was used to create a series of interactive dashboards, providing visual insights into customer and subscription data:
 
