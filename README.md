@@ -28,16 +28,15 @@ This section provides an analysis of customer data from a subscription service, 
 
 2. **Exploration**: Conducted exploratory analysis to understand the data structure and identify any patterns or anomalies. Key metrics included:
    - Revenue
-   - Average sales per product
+   - Average subscription type revenue
    - Total revenue by region
    - Grand total revenue
-   - Total number of products
-   - Total revenue per product
-   - Total quantity per product sold
+   - Total number of region
+   - Total revenue per months
 
-3. **Pivot Tables**: Created pivot tables for insights into sales by product, region, and month.
+3. **Pivot Tables**: Created pivot tables for insights into sales by subscription type, region, and month.
 
-4. **Metrics Calculation**: Calculated average sales per product and total revenue by region to gauge sales performance.
+4. **Metrics Calculation**: Calculated average subscription revenue and total revenue by region to gauge performance.
 
    ![Screenshot (5)](https://github.com/user-attachments/assets/68d7f2da-7d3a-45a4-a29c-bfa87c868297)
    ![Screenshot (10)](https://github.com/user-attachments/assets/98b04910-78f8-4d31-8eb9-51aa4abd5fe7)
@@ -153,7 +152,7 @@ This section provides an analysis of customer data from a subscription service, 
 
 Power BI was used to create a series of interactive dashboards, providing visual insights into customer and subscription data:
 
-- **Subscriber Demographics**: Visualized demographic information of subscribers, including regional distributions and age groups, enabling a clearer understanding of the customer base.
+- **Subscriber Demographics**: Visualized demographic information of subscribers, including regional distributions, enabling a clearer understanding of the customer base.
 
 - **Subscription Purchase Behavior**: Analyzed subscription purchases over time, showcasing trends in popular subscription types and purchase frequency.
 
