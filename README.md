@@ -1,20 +1,19 @@
-# About Dataset
+#LITA_CAPSTONE_CUSTOMER_DATA
 
 ## Subscription Service Company’s Customer Data Analysis
 
-This is my second project, given to me by **The Incubator Hub**.
-
 # Introduction
 
-This section provides an analysis of customer data from a subscription service, aimed at understanding customer behavior, demographics, and purchasing patterns. Using SQL, Excel, and Power BI, the project segments customers based on key metrics and identifies high-value subscribers.
+This section provides an analysis of customer data from a subscription service, aimed at understanding customer behavior, demographics, and purchasing patterns. Using SQL, Excel, and Power BI.
+
+## Data Sources
+It segments customers based on key metrics and identifies high-value subscribers.
 
 ## Objectives
 
 - Understand subscriber demographics and purchasing behavior.
 - Identify high-value subscribers and frequent purchasers.
 - Segment subscribers based on buying patterns and preferences.
-
-## Data Sources
 
 - **Subscriber Profiles**: Contains data on subscriber demographics such as location and subscription amount.
 - **Subscription Transaction History**: A record of each subscriber’s purchases, including product details, transaction dates, and purchase amounts.
